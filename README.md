@@ -1,2 +1,6 @@
-# Basic-Linear-Model-with-TensorFlow
-Learnt the basic workflow of Tensorflow with simple linear model using commonly used MNIST data-set with images of hand-written digits.
+# VQA with pytorch
+To answer a question
+Convert the image to features 'v'
+Convert the question to a torch vector of longs
+Pass both into the the VQA model
+Interpret the softmax-y answer vectors
